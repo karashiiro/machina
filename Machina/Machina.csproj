@@ -22,9 +22,6 @@
     <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
     <RepositoryUrl>https://github.com/ravahn/machina</RepositoryUrl>
     <PackageTags>raw socket winpcap tcpip c# packet sniffer</PackageTags>
-    <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>Ravahn.Machina.Keyfile.snk</AssemblyOriginatorKeyFile>
-    <DelaySign>false</DelaySign>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Ravahn.Machina.Keyfile.snk" />
